@@ -1,0 +1,1 @@
+La ciencia de datos combina estadística, programación y conocimiento de negocio para extraer información útil de los datos. Incluye procesos como limpieza de datos, análisis exploratorio y modelado predictivo.

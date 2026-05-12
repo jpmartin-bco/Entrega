@@ -1,0 +1,1 @@
+Big Data se refiere al manejo de grandes volúmenes de datos que no pueden ser procesados con herramientas tradicionales. Se caracteriza por volumen, velocidad y variedad. Es utilizado en marketing, salud y análisis financiero.

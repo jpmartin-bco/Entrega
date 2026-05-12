@@ -1,0 +1,1 @@
+Las redes neuronales son modelos inspirados en el cerebro humano. Están formadas por capas de nodos que procesan información. Son la base del deep learning y permiten resolver problemas complejos como reconocimiento de imágenes y traducción automática.

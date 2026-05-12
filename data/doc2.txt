@@ -1,0 +1,1 @@
+El machine learning es una rama de la inteligencia artificial que permite a los sistemas aprender patrones a partir de datos sin ser programados explícitamente. Se divide en aprendizaje supervisado, no supervisado y por refuerzo. Es ampliamente usado en predicción de precios, detección de fraude y análisis de comportamiento.

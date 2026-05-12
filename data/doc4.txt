@@ -1,0 +1,1 @@
+Python es un lenguaje de programación de alto nivel, fácil de aprender y muy utilizado en ciencia de datos, inteligencia artificial y desarrollo web. Su sintaxis clara lo hace ideal para principiantes y profesionales. Tiene una gran comunidad y muchas librerías como NumPy, Pandas y TensorFlow.

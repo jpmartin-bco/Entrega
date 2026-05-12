@@ -1,0 +1,1 @@
+El deep learning utiliza redes neuronales profundas para modelar datos complejos. Es una técnica clave en reconocimiento de imágenes, voz y lenguaje natural. Requiere grandes cantidades de datos y poder computacional, pero ofrece resultados muy precisos en tareas complejas.
